@@ -1,3 +1,8 @@
+## [3.0.1](https://github.com/Elkfox/Ajaxinate/compare/2.0.11...3.0.1) (2019-07-27)
+
+
+
+
 ## [2.0.11](https://github.com/Elkfox/Ajaxinate/compare/2.0.10...2.0.11) (2018-12-13)
 
 

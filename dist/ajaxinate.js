@@ -9,7 +9,7 @@
               |\
               |/
 Ajaxinate
-version v2.0.11
+version v2.0.12
 https://github.com/Elkfox/Ajaxinate
 Copyright (c) 2017 Elkfox Co Pty Ltd
 https://elkfox.com
@@ -27,9 +27,9 @@ var Ajaxinate = function ajaxinateConstructor(config) {
     callback: null, function to callback after a new page is loaded
   */
   var defaultSettings = {
-    pagination: '.AjaxinatePagination',
+    pagination: '#AjaxinatePagination',
     method: 'scroll',
-    container: '.AjaxinateLoop',
+    container: '#AjaxinateLoop',
     offset: 0,
     loadingText: 'Loading',
     callback: null
